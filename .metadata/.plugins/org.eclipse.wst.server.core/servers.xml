@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="10">
+    <list key="modules" value0="MyApp::org.eclipse.jst.jee.server:MyApp::jst.web::2.5" value1="First::org.eclipse.jst.jee.server:First::jst.web::2.5" value2="queryString1::org.eclipse.jst.jee.server:queryString1::jst.web::3.0" value3="FilterDemo::org.eclipse.jst.jee.server:FilterDemo::jst.web::2.5" value4="FilterDemo1::org.eclipse.jst.jee.server:FilterDemo1::jst.web::2.5" value5="JSPDemo::org.eclipse.jst.jee.server:JSPDemo::jst.web::2.5" value6="ImplicitResponseObj::org.eclipse.jst.jee.server:ImplicitResponseObj::jst.web::2.5" value7="ConfigImplicitObj::org.eclipse.jst.jee.server:ConfigImplicitObj::jst.web::2.5" value8="Assignment::org.eclipse.jst.jee.server:Assignment::jst.web::2.5" value9="ServletCRUD::org.eclipse.jst.jee.server:ServletCRUD::jst.web::2.5"/>
+  </server>
+</servers>

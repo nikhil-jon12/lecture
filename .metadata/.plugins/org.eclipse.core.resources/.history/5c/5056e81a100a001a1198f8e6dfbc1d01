@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="">
+		Enter PRN:
+		<input type="text" name="txtNum">
+		<input type="submit" value="Search">
+	</form>
+	<br>
+	<a href="viewServlet">View Table</a>
+</body>
+</html>
